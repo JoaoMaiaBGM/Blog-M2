@@ -1,0 +1,5 @@
+input, button, h1, figure, body, fieldset, textarea, h3 {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
